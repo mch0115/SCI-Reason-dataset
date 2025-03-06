@@ -1,0 +1,6 @@
+images/
+*.jpg
+*.png
+*.pdf
+*.zip
+**/images/
